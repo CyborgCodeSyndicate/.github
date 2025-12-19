@@ -21,3 +21,14 @@ By submitting a PR or patch, you confirm:
 When committing locally, sign off your commits:
 ```bash
 git commit -s -m "Your message"
+```
+This adds a “Signed-off-by” line and helps keep contribution rights clear.
+
+## What to contribute
+- Bug fixes, refactors, docs, tests
+- New features (open an issue first for alignment)
+
+## Quality bar
+- Add/update tests where practical
+- Keep changes backward-compatible when possible
+- Document behavior changes in the PR description
