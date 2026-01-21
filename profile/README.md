@@ -35,11 +35,50 @@ Engineering that evolves as fast as the world around it.
 - **Write access:** restricted to Syndicate members only.
 - **External contributions:** currently not accepted.
 
+External users can still contribute by reporting bugs, suggesting features, and sharing integration feedback.  
+See [CONTRIBUTING.md](https://github.com/CyborgCodeSyndicate/.github/blob/main/CONTRIBUTING.md) for details.
+
+---
+
+## Community & Support
+
+### Getting Help
+For questions, issues, or access requests, use our **private support channel**:  
+**[Contact Form](https://www.cyborgcode.io/contact)** — Use subject tags like `[ISSUE]`, `[QUESTION]`, or `[ACCESS]` for faster routing.
+
+See [SUPPORT.md](https://github.com/CyborgCodeSyndicate/.github/blob/main/SUPPORT.md) for detailed guidance.
+
+### Security
+**Do not report security vulnerabilities publicly.** Use the private contact channel with subject line `[SECURITY]`.  
+Full policy: [SECURITY.md](https://github.com/CyborgCodeSyndicate/.github/blob/main/SECURITY.md)
+
+### Code of Conduct
+We maintain a respectful, professional environment for all participants.  
+Read our standards: [CODE_OF_CONDUCT.md](https://github.com/CyborgCodeSyndicate/.github/blob/main/CODE_OF_CONDUCT.md)
+
+### Contributing (Members)
+Organization members must follow our contribution workflow, including:
+- Required **PR Validator** checks: `mvn clean verify -Ppr-validator`
+- Branch naming conventions and commit standards
+- Review and approval requirements
+
+Full guidelines: [CONTRIBUTING.md](https://github.com/CyborgCodeSyndicate/.github/blob/main/CONTRIBUTING.md)
+
+---
+
+## Governance
+The organization is governed by **Admins (Organization Owners)** with day-to-day stewardship by **Maintainers**.  
+Decision-making prioritizes engineering quality, security, and long-term sustainability.
+
+See [GOVERNANCE.md](https://github.com/CyborgCodeSyndicate/.github/blob/main/GOVERNANCE.md) for roles, authority levels, and decision processes.
+
+---
 
 ## Licensing & trademarks
-- **Org policy docs:** The community-health and policy documents in this `.github` repository are licensed under **CC BY 4.0** (see `LICENSE` / `LICENSE.md`).
+- **Org policy docs:** The community-health and policy documents in this `.github` repository are licensed under **CC BY 4.0** (see [LICENSE](https://github.com/CyborgCodeSyndicate/.github/blob/main/LICENSE)).
 - **Project code:** Each project repository defines its own license in its `LICENSE` file (public libraries are intended to be usable by everyone, including via Maven Central).
-- **Trademarks:** The Cyborg Code Syndicate name, logos, and brand assets are protected and are **not** granted by code/document licenses. See `TRADEMARKS.md`.
+- **Trademarks:** The Cyborg Code Syndicate name, logos, and brand assets are protected and are **not** granted by code/document licenses. See [TRADEMARKS.md](https://github.com/CyborgCodeSyndicate/.github/blob/main/TRADEMARKS.md).
+- **Copyright & CLA:** Contributors grant necessary rights per [CLA.md](https://github.com/CyborgCodeSyndicate/.github/blob/main/CLA.md). Ownership details in [COPYRIGHT.md](https://github.com/CyborgCodeSyndicate/.github/blob/main/COPYRIGHT.md).
 
 ---
 
@@ -72,9 +111,24 @@ Product page: **Coming soon**
 ---
 
 ## Resources
+
+### General
 - **Website:** https://www.cyborgcode.io/
-- **Documentation:** each repository README serves as its own documentation entry point.
-- **Security:** see `SECURITY.md` in the relevant repository.
+- **Support & Contact:** https://www.cyborgcode.io/contact
+- **Documentation:** Each repository README serves as its own documentation entry point
+
+### Organization Policies
+- **[CONTRIBUTING.md](https://github.com/CyborgCodeSyndicate/.github/blob/main/CONTRIBUTING.md)** — Contribution guidelines and workflow (members only)
+- **[CODE_OF_CONDUCT.md](https://github.com/CyborgCodeSyndicate/.github/blob/main/CODE_OF_CONDUCT.md)** — Community standards
+- **[SUPPORT.md](https://github.com/CyborgCodeSyndicate/.github/blob/main/SUPPORT.md)** — Getting help and reporting issues
+- **[SECURITY.md](https://github.com/CyborgCodeSyndicate/.github/blob/main/SECURITY.md)** — Security vulnerability disclosure process
+- **[GOVERNANCE.md](https://github.com/CyborgCodeSyndicate/.github/blob/main/GOVERNANCE.md)** — Organization structure and decision-making
+
+### Legal & Licensing
+- **[LICENSE](https://github.com/CyborgCodeSyndicate/.github/blob/main/LICENSE)** — CC BY 4.0 for organization policy docs
+- **[CLA.md](https://github.com/CyborgCodeSyndicate/.github/blob/main/CLA.md)** — Contributor License Agreement
+- **[COPYRIGHT.md](https://github.com/CyborgCodeSyndicate/.github/blob/main/COPYRIGHT.md)** — Copyright and ownership
+- **[TRADEMARKS.md](https://github.com/CyborgCodeSyndicate/.github/blob/main/TRADEMARKS.md)** — Brand usage policy
 
 ---
 
