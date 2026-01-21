@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://raw.githubusercontent.com/CyborgCodeSyndicate/.github/main/assets/CyborgCodeLogo.png" width="360" />
+ <img src="https://raw.githubusercontent.com/CyborgCodeSyndicate/.github/main/assets/CyborgCodeLogo.png" width="180" />
 </p>
 
 <h1 align="center">Cyborg Code Syndicate</h1>
@@ -34,6 +34,12 @@ Engineering that evolves as fast as the world around it.
 - **Public repositories:** readable by everyone.
 - **Write access:** restricted to Syndicate members only.
 - **External contributions:** currently not accepted.
+
+
+## Licensing & trademarks
+- **Org policy docs:** The community-health and policy documents in this `.github` repository are licensed under **CC BY 4.0** (see `LICENSE` / `LICENSE.md`).
+- **Project code:** Each project repository defines its own license in its `LICENSE` file (public libraries are intended to be usable by everyone, including via Maven Central).
+- **Trademarks:** The Cyborg Code Syndicate name, logos, and brand assets are protected and are **not** granted by code/document licenses. See `TRADEMARKS.md`.
 
 ---
 
