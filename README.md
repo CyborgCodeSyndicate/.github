@@ -26,10 +26,10 @@ GitHub automatically uses these files as defaults for repositories in this organ
 ### Templates
 
 - **[CODEOWNERS](CODEOWNERS)** – Default code ownership for automated review assignments
-- **[Issue Templates](ISSUE_TEMPLATE/)** – Structured templates for bug reports, feature requests, and questions
-  - [Bug Report](ISSUE_TEMPLATE/bug_report.md) – For reproducible problems
-  - [Feature Request](ISSUE_TEMPLATE/feature_request.md) – For new capabilities and improvements
-  - [Question](ISSUE_TEMPLATE/question.md) – For usage, configuration, and troubleshooting help
+- **[Issue Templates](.github/ISSUE_TEMPLATE/)** – Structured templates for bug reports, feature requests, and questions
+  - [Bug Report](.github/ISSUE_TEMPLATE/bug_report.md) – For reproducible problems
+  - [Feature Request](.github/ISSUE_TEMPLATE/feature_request.md) – For new capabilities and improvements
+  - [Question](.github/ISSUE_TEMPLATE/question.md) – For usage, configuration, and troubleshooting help
 - **[pull_request_template.md](pull_request_template.md)** – Template for pull request descriptions
 
 ---
